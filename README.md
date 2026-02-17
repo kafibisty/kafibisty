@@ -1,16 +1,13 @@
-## Hi there 👋
+# হাই, আমি বিচরণ রায় 👋 (Bicharan Roy)
+### একজন উদ্যমী ফুল-স্ট্যাক ওয়েব ডেভেলপার 🚀
 
-<!--
-**kafibisty/kafibisty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 বর্তমানে কাজ করছি: **Python, Django এবং PHP** নিয়ে।
+- 🌱 শিখছি: **Advanced Python & Cloud Deployment**।
+- 💬 আমাকে জিজ্ঞেস করতে পারেন: **HTML, CSS, JS, SQL এবং Django** সম্পর্কে।
+- 📫 যোগাযোগ করুন: [আপনার ইমেইল বা সোশ্যাল লিঙ্ক]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### আমার ব্যবহৃত টেকনোলজি:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
